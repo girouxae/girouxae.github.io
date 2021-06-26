@@ -22,4 +22,4 @@ ____
 
 ##### Current learning notes:
 
-- Working on building my Pages site locally. I've realized the instructions for getting Ruby, Bundler, Jekyll etc. feel very circular. Once I better understand the process, I'd like to help with clarity and potentially make a pull request.
+- I have Jekyll working in Windows and am working on creating pages locally. It took a bit to find the one line I was missing in the local build process, but it finally works! This means actual content coming soon!
